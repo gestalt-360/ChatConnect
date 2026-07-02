@@ -1,10 +1,9 @@
 {
   "projectId": "web-app-mensagem",
   "appId": "1:879270826484:web:82625074a73945806b69a1",
-  "apiKey": "SUA_API_KEY",
+  "apiKey": "AIzaSyB0j740WVFGnyS-tCnQUR4mtXbgULNOTN8",
   "authDomain": "web-app-mensagem.firebaseapp.com",
   "storageBucket": "web-app-mensagem.firebasestorage.app",
   "messagingSenderId": "879270826484",
-  "measurementId": "G-HP8NJV4W0",
-  "firestoreDatabaseId": "(default)"
+  "measurementId": "G-HP8NJ2V4W0"
 }

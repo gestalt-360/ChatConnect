@@ -1,0 +1,10 @@
+{
+  "name": "ChatConnect",
+  "description": "A modern, real-time messaging application with Firebase authentication, text, audio, and PDF sharing capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
